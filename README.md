@@ -1,0 +1,2 @@
+# Hedge_Ch_BLSTM_Adversarial
+Keras 构建基于BLSTM+对抗学习的跨领域中文模糊限制语识别
